@@ -15,5 +15,5 @@ A pasta ```data``` contém o *dataset* original assim como as versões criadas p
 
 ### CRÉDITOS
 
-Vitor Fabris, BCC [github.com/tremefabris](github.com/tremefabris)  
-Jayme Sakae, BCC [github.com/jaymesakae](github.com/jaymesakae)
+Vitor Fabris, BCC [(github.com/tremefabris)](github.com/tremefabris)  
+Jayme Sakae, BCC [(github.com/jaymesakae)](github.com/jaymesakae)
