@@ -15,5 +15,5 @@ A pasta ```data``` contém o *dataset* original assim como as versões criadas p
 
 ### CRÉDITOS
 
-Vitor Fabris, BCC
+Vitor Fabris, BCC  
 Jayme Sakae, BCC
