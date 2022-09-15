@@ -13,6 +13,16 @@ Link para o conjunto [aqui](https://www.kaggle.com/datasets/shivamb/bank-custome
 
 A pasta ```data``` contém o *dataset* original assim como as versões criadas por nós para as diferentes tarefas que atacamos. A pasta ```old``` possui explorações e análises que fizemos em outros *datasets* na intenção de encontrar um conjunto cujos dados obedecessem um agrupamento.
 
+### BIBLIOTECAS NECESSÁRIAS
+- ```Numpy```
+- ```Matplotlib.pyplot```
+- ```Pandas```
+- ```Seaborn```
+- ```Sklearn```
+- ```Hdbscan```
+- ```Scipy```
+- ```Yellowbrick```
+
 ### CRÉDITOS
 
 Vitor Fabris, BCC ([github.com/tremefabris](https://github.com/tremefabris))  
