@@ -4,7 +4,7 @@ Link para o conjunto [aqui](https://www.kaggle.com/datasets/shivamb/bank-custome
 
 ### DESCRIÇÃO DOS ARQUIVOS
 
-- ```bank-transactions-exploration```: tratamento dos dados e agrupamento para entender se o conjunto era ótimo para a tarefa;
+- ```bank-transactions-exploration```: tratamento dos dados e agrupamento preliminares para entender se o conjunto era ótimo para a tarefa;
 - ```bank-transactions-dataviz```: expansão dos dados e visualização de informações do conjunto graficamente;
 - ```bank-transactions-treatment```: tratamento completo dos dados e armazenamento do conjunto regular;
 - ```bank-transactions-validation```: métricas de avaliação dos agrupadores;
